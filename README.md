@@ -1,8 +1,8 @@
 # ![Bassem Gharib](./profile-header.svg)
 
-**Cybersecurity · Industrial Security (OT/ICS) · Software Development**
+**Cybersecurity · Industrial Security (OT/ICS)**
 
-I’m building skills in defensive cybersecurity and industrial control systems alongside software development. My background in geophysics and laboratory QA/QC shapes how I investigate anomalies, validate results, and document findings.
+I’m building skills in defensive cybersecurity and industrial control systems. My background is in exploration geophysics and laboratory QA/QC.
 
 ## Cybersecurity & OT/ICS
 
@@ -22,14 +22,11 @@ The planned workflow brings test inputs, calculations, and results review into o
 
 ## Technical background
 
-**Geophysics**  
-Geophysical data processing, seismic interpretation, and anomaly investigation.
+**Exploration Geophysics**  
+Mineral exploration and subsurface mapping.
 
 **Laboratory QA/QC**  
 Soil and concrete testing, technical documentation, and result traceability.
-
-**Software and systems**  
-Flutter and Dart for application development, with C++ fundamentals and Git/GitHub workflows.
 
 ## Connect
 
