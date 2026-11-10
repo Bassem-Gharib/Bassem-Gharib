@@ -1,8 +1,16 @@
 # ![Bassem Gharib](./profile-header.svg)
 
-**Geophysics · Laboratory QA/QC · Engineering Software**
+**Cybersecurity · Industrial Security (OT/ICS) · Software Development**
 
-I’m a geophysics graduate with a background in laboratory quality assurance and quality control. I apply that experience to software for engineering workflows, where the quality of a result depends on the record behind it.
+I’m building skills in defensive cybersecurity and industrial control systems alongside software development. My background in geophysics and laboratory QA/QC shapes how I investigate anomalies, validate results, and document findings.
+
+## Cybersecurity & OT/ICS
+
+My focus is on defending operational technology (OT) and industrial control systems (ICS).
+
+- **Linux and networking** — Practicing with Ubuntu/WSL and Kali Linux while building a foundation in networking and network security.
+- **Industrial systems** — Studying OT/ICS security and how industrial networks and cyber-physical systems are monitored and protected.
+- **Python** — Building scripting skills for automation, data analysis, and security tasks.
 
 ## Selected project
 
@@ -12,7 +20,7 @@ I’m a geophysics graduate with a background in laboratory quality assurance an
 
 The planned workflow brings test inputs, calculations, and results review into one place and supports standardized laboratory reports for soil and concrete testing.
 
-## Technical focus
+## Technical background
 
 **Geophysics**  
 Geophysical data processing, seismic interpretation, and anomaly investigation.
@@ -21,7 +29,7 @@ Geophysical data processing, seismic interpretation, and anomaly investigation.
 Soil and concrete testing, technical documentation, and result traceability.
 
 **Software and systems**  
-Flutter and Dart for application development. Building skills in Python for data analysis and automation, with ongoing study of Linux, networking, and OT/ICS security.
+Flutter and Dart for application development, with C++ fundamentals and Git/GitHub workflows.
 
 ## Connect
 
