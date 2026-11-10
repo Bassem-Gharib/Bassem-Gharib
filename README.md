@@ -18,4 +18,4 @@ A Flutter app designed to organize test inputs and calculations, track laborator
 
 ## Links
 
-[LinkedIn](https://www.linkedin.com/in/bassem-gharib) · [Linktree](https://linktr.ee/bassemgharibtech) · [Facebook](https://www.facebook.com/BasemGharib.CPS/) · [Email](mailto:b.gharib.dev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/bassem-gharib) · [Linktree](https://linktr.ee/bassemgharibtech) · [Email](mailto:b.gharib.dev@gmail.com)
