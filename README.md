@@ -30,4 +30,4 @@ Soil and concrete testing, technical documentation, and result traceability.
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/bassem-gharib) · [Linktree](https://linktr.ee/bassemgharibtech) · [Email](mailto:b.gharib.dev@gmail.com)
+[Linktree](https://linktr.ee/bassemgharibtech)
