@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="246" viewBox="0 0 1080 246" role="img" aria-labelledby="title description">
+  <title id="title">Bassem Gharib · Engineering Portfolio</title>
+  <desc id="description">A navy masthead with a teal seismic trace plotted over a faint technical grid.</desc>
+  <defs>
+    <linearGradient id="field" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#101F31"/>
+      <stop offset="0.61" stop-color="#0B1828"/>
+      <stop offset="1" stop-color="#0C2230"/>
+    </linearGradient>
+    <radialGradient id="signal-light" cx="0.82" cy="0.46" r="0.42">
+      <stop stop-color="#245D66" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#245D66" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" x="710" y="39" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 H 0 V 28" fill="none" stroke="#7C9EA8" stroke-opacity="0.20"/>
+    </pattern>
+    <linearGradient id="signal" x1="708" y1="0" x2="1031" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#63D9C2" stop-opacity="0.12"/>
+      <stop offset="0.22" stop-color="#63D9C2" stop-opacity="0.65"/>
+      <stop offset="0.55" stop-color="#92EFDA"/>
+      <stop offset="0.87" stop-color="#63D9C2" stop-opacity="0.72"/>
+      <stop offset="1" stop-color="#63D9C2" stop-opacity="0.15"/>
+    </linearGradient>
+    <clipPath id="bounds">
+      <rect x="1" y="1" width="1078" height="244" rx="12"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#bounds)">
+    <rect width="1080" height="246" fill="url(#field)"/>
+    <rect width="1080" height="246" fill="url(#signal-light)"/>
+    <rect x="710" y="39" width="322" height="168" fill="url(#grid)"/>
+    <path d="M 710 123 H 1032" fill="none" stroke="#6F9C9B" stroke-opacity="0.32" stroke-dasharray="3 6"/>
+    <path d="M 710 123 L 731 123 L 739 121 L 745 125 L 752 123 L 763 123
+             L 770 127 L 776 117 L 782 131 L 788 113 L 794 129 L 801 123
+             L 809 116 L 815 136 L 821 102 L 828 147 L 835 88 L 841 160
+             L 848 71 L 854 173 L 861 78 L 868 155 L 874 97 L 881 141
+             L 887 108 L 894 134 L 901 115 L 908 127 L 915 120 L 921 124
+             L 930 123 L 937 117 L 943 130 L 950 113 L 956 133 L 963 118
+             L 970 126 L 978 121 L 986 124 L 996 123 H 1032"
+          fill="none" stroke="url(#signal)" stroke-width="2.35" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <text x="61" y="75" fill="#78DCC8" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="24" font-weight="650" letter-spacing="3.3">ENGINEERING PORTFOLIO</text>
+    <text x="57" y="157" fill="#F3F7FB" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="78" font-weight="700" letter-spacing="-2.7">Bassem Gharib</text>
+    <path d="M 61 195 H 117" stroke="#63D9C2" stroke-width="3" stroke-linecap="round"/>
+    <path d="M 127 195 H 231" stroke="#4A6173" stroke-opacity="0.72" stroke-width="1"/>
+  </g>
+  <rect x="1" y="1" width="1078" height="244" rx="12" fill="none" stroke="#415468" stroke-width="1.5"/>
+</svg>
